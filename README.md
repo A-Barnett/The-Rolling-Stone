@@ -1,4 +1,4 @@
-# The-Rolling-Stone
+# The Rolling Stone
 
 A simple platformer game, one of my first Unity games.
 
